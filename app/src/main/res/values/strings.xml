@@ -1,4 +1,37 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="piotr_sty_a">Piotr Styła</string>
+    <string name="bio"><b>Objective</b>\n
+Enthusiast coder - learning: Java, Kotlin, Android Studio, AWS Mobile &amp; IoT;\n
+LOOKING FOR JUNIOR OPPORTUNITY\n
+Fully capable of working autonomously with minimal supervision. Excellent teamwork, positive,
+get-it-done attitude, integrity and focus on the deadlines. Entrepreneurial mindset. Strong
+interpersonal skills and understanding of the importance of an excellent customer service. Very
+good communication skills and the ability to interact with customers in a professional manner.
+Looking for the role in which I could contribute to the success of the organisation through
+my commitment and utilisation of my life-long experience in customer service, sales,
+and IT - for some time lately .\n
+Experience\n
+Senior Recruit Coordinator\n
+Alexander Mann Solutions Kraków\n
+November-2019 - Present\n
+Supporting recruitment teams from administrative perspective;\n
+Managing incoming interview scheduling, re-scheduling and cancellation
+requests (face to face interview, video conference, telephone interview,
+assessment centres).
+Building and maintaining strong working relationships between all parties,
+ensuring that they are continually appraised and updated on the relevant
+processes;\n
+Android Developer - Freelancer\n
+Piotr Styła Kraków\n
+July-2019 - Present\n
+Developing Android apps in Java and Kotlin
+Consultant - air compensation
+specialist\n
+Armatis LC Kraków\n
+August-2018 - October-2019
+Registration and processing of noti􀃝cations of delayed and canceled 􀃞ights
+Data Protection O</string>
+    <string name="star">Star</string>
+    <string name="me">Me</string>
 </resources>
